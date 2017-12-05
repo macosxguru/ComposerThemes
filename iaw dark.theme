@@ -1,0 +1,87 @@
+{
+	"comment" : "Default Dark theme for MultiMarkdown Composer v4 by Fletcher T. Penney",
+	"backgroundColor" : "#1A1A1A",
+	"foregroundColor" : "#CCCCCC",
+	"sidebarBackgroundColor" : "333",
+	"sidebarTextColor" : "aaa",
+	"sidebarTextColorHighlighted" : "333",
+	"sidebarTextColorHighlightedInactive" : "aaa",
+	"sidebarHighlightColor" : "aaa",
+	"sidebarHighlightColorInactive" : "4A5259",
+	"caretColor" : "#00b9ff",
+	"selectionColor" : "#1B424E",
+	"strong" : {
+		"bold" : 1
+	},
+	"emphasis" : {
+		"italic" : 1
+	},
+	"superscript" : {
+		"superscript" : 1
+	},
+	"subscript" : {
+		"subscript" : 1
+	},
+	"criticAddition" : {
+		"foregroundColor" : "00bb00"
+	},
+	"criticDeletion" : {
+		"foregroundColor" : "bb0000"
+	},
+	"criticSubstitution" : {
+		"foregroundColor" : "cc6b00"
+	},
+	"criticHighlight" : {
+		"foregroundColor" : "aa53a9"
+	},
+	"criticComment" : {
+		"foregroundColor" : "6666cc"
+	},
+	"codeBlock" : {
+		"fontName" : "Courier",
+		"fontScale" : 0.92,
+		"foregroundColor" : "66737f",
+		"backgroundColor" : "2240607f"
+	},
+	"codeSpan" : {
+		"fontName" : "Courier",
+		"fontScale" : 0.92,
+		"foregroundColor" : "66737F",
+		"backgroundColor" : "2240607f",
+		"mono"  : 1
+	},
+	"heading" : {
+		"bold" : 1
+	},
+	"math" : {
+		"foregroundColor" : "66737f"
+	},
+	"table" : {
+		"backgroundColor" : "2240607f"
+	},
+	"pairs" : {
+		"foregroundColor" : "66737F"
+	},
+	"markup" : {
+		"foregroundColor" : "66737F"
+	},
+	"metadata" : {
+		"foregroundColor" : "777"
+	},
+	"definitionAbbreviation" : {
+		"foregroundColor" : "66737F"
+	},
+	"definitionCitation" : {
+		"foregroundColor" : "66737F"
+	},
+	"definitionFootnote" : {
+		"foregroundColor" : "66737F"
+	},
+	"definitionGlossary" : {
+		"foregroundColor" : "66737F"
+	},
+	"definitionLink" : {
+		"foregroundColor" : "66737F"
+
+	}
+}
