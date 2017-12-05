@@ -1,0 +1,101 @@
+{
+	"backgroundColor" : "#fafafa",
+	"foregroundColor" : "#424242",
+	"sidebarBackgroundColor" : "ededed",
+	"sidebarTextColor" : "000",
+	"sidebarTextColorHighlighted" : "fff",
+	"sidebarTextColorHighlightedInactive" : "000",
+	"sidebarHighlightColor" : "3875d7",
+	"sidebarHighlightColorInactive" : "d4d4d4",
+	"caretColor" : "#00b9ff",
+	"selectionColor" : "#C2E8F4",
+	"strong" : {
+		"bold" : 1
+	},
+	"emphasis" : {
+		"italic" : 1
+	},
+	"superscript" : {
+		"superscript" : 1
+	},
+	"subscript" : {
+		"superscript" : -1
+	},
+	"criticAddition" : {
+		"foregroundColor" : "00bb00"
+	},
+	"criticDeletion" : {
+		"foregroundColor" : "dd0000"
+	},
+	"criticSubstitution" : {
+		"foregroundColor" : "ff8600"
+	},
+	"criticHighlight" : {
+		"foregroundColor" : "aa53a9"
+	},
+	"criticComment" : {
+		"foregroundColor" : "0000bb"
+	},
+	"blockquote" : {
+		"foregroundColor": "#bbbbbb",
+		"leftIndent" : 30.0,
+		"rightIndent" : 30.0
+	},
+	"bulletList" : {
+		"foregroundColor": "#586e75"
+	},
+	"codeBlock" : {
+		"fontName" : "Courier",
+		"fontScale" : 0.92
+	},
+	"codeSpan" : {
+		"fontName" : "Courier",
+		"fontScale" : 0.92,
+		"mono"  : 1
+	},
+	"heading" : {
+		"foregroundColor" : "#268bd2",
+		"bold" : 1
+	},
+	"markup" : {
+		"foregroundColor" : "#93a1a1"
+	},
+	"math" : {
+	},
+	"metadata" : {
+	},
+	"orderedList" : {
+		"foregroundColor": "#586e75"
+	},
+	"table" : {
+	},
+	"pairs" : {
+	},
+	"angles" : {
+	},
+	"brackets" : {
+		"foregroundColor": "#C7C4C2"
+	},
+	"abbreviation" : {
+	},
+	"definitionAbbreviation" : {
+	},
+	"citation" : {
+	},
+	"definitionCitation" : {
+	},
+	"footnote" : {
+	},
+	"definitionFootnote" : {
+	},
+	"glossary" : {
+	},
+	"definitionGlossary" : {
+	},
+	"image" : {
+	},
+	"definitionLink" : {
+	},
+	"variable" : {
+	}
+}
